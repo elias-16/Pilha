@@ -1,4 +1,4 @@
-package Pilha;
+package ED;
 
 public class PilhaEncadeada {
 	
